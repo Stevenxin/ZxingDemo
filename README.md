@@ -6,3 +6,9 @@ ZxingDemo
 ### 划分了目录结构，使项目看起来更清晰
 ### 加了绿色的四个角，改变了扫描线的颜色，让扫描线上下运动起来
 ### 删减了许多用不到的资源文件
+
+### 效果图如下
+
+![image](https://github.com/fazhongxu/ZxingDemo/blob/master/image/zxingdemo_scan.png)
+
+![image](https://github.com/fazhongxu/ZxingDemo/blob/master/image/zxingdemo_result.png)
